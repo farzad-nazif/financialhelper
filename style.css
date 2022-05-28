@@ -1,0 +1,137 @@
+* {
+    align-items: center;
+    text-align: center;
+    background-color: #e2e2e2;
+}
+.welcome{
+    color: #330f07;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    background-color: yellow;
+    height:15%;
+    width: 100%;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgb(34, 167, 87);
+    border-width: 20px;
+    border-style: dotted;
+    margin: 1%;   
+    padding: 50px;
+}
+.intro {
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(182, 195, 255);
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgb(34, 167, 87);
+    border-width: 10px;
+    border-style: dotted;
+    padding: 20px;
+}
+.imagesection{
+    flex-direction: column;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgb(34, 167, 87);
+    border-width: 10px;
+    border-style: dotted;
+    padding: 20px;
+}
+.imageown{
+  height: 400px;
+  width: 400px;
+}
+.next{
+    font-size: 30px;
+    background-color: yellow;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgb(34, 167, 87);
+    border-width: 10px;
+    border-style: dotted;
+}
+.previous{
+    font-size: 30px;
+    background-color: yellow;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgb(34, 167, 87);
+    border-width: 10px;
+    border-style: dotted;
+}
+.commentsection{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    font-size: 30px;
+    background-color: rgb(255, 255, 158);
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgb(34, 167, 87);
+    border-width: 10px;
+    border-style: dotted;
+}
+.commentpara{
+    background-color: rgb(255, 255, 158);
+}
+.commentinp{
+    font-size: 30px;
+        background-color: yellow;
+        border-radius: 10%;
+        border-style: solid;
+        border-color: rgb(34, 167, 87);
+        border-width: 10px;
+        border-style: dotted;
+}
+.commentbtn{
+    font-size: 30px;
+        background-color: yellow;
+        border-radius: 10%;
+        border-style: solid;
+        border-color: rgb(34, 167, 87);
+        border-width: 10px;
+        border-style: dotted;
+}
+.caltol{
+    font-size: 30px;
+        background-color: rgb(182, 195, 255);
+        border-radius: 10%;
+        border-style: solid;
+        border-color: rgb(34, 167, 87);
+        border-width: 10px;
+        border-style: dotted;
+}
+.instru{
+    font-size: 30px;
+        background-color: rgb(182, 195, 255);
+        border-radius: 10%;
+        border-style: solid;
+        border-color: rgb(34, 167, 87);
+        border-width: 10px;
+        border-style: dotted;
+}
+.calbtn{
+    font-size: 30px;
+        background-color: yellow;
+        border-radius: 10%;
+        border-style: solid;
+        border-color: rgb(34, 167, 87);
+        border-width: 10px;
+        border-style: dotted;
+        padding: 10px;
+        margin: 10px;
+}
+.incomecal{
+    font-size: 40px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-color: rgb(182, 195, 255);
+        border-radius: 10%;
+        border-style: solid;
+        border-color: rgb(34, 167, 87);
+        border-width: 10px;
+        border-style: dotted;
+        padding: 20px;
+}
